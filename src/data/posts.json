@@ -1,0 +1,28 @@
+{
+  "posts": [
+    {
+      "id": "next.js13-udemy",
+      "title": "Next.js13をUdemyで学ぶ",
+      "content": "shincodeさんの教材でNext.js13を学んでいます。",
+      "createdAt": "2022/07/14"
+    },
+    {
+      "id": "json-server",
+      "title": "JSONサーバー",
+      "content": "shincodeさんの教材でJSONサーバーを学んでいます。",
+      "createdAt": "2022/07/16"
+    },
+    {
+      "id": "revalidate-next.js13",
+      "title": "データの再検証",
+      "content": "shincodeさんの教材でデータの再検証を学んでいます。shincodeさんの教材でデータの再検証を学んでいます。shincodeさんの教材でデータの再検証を学んでいます。shincodeさんの教材でデータの再検証を学んでいます。",
+      "createdAt": "2022/07/16"
+    },
+    {
+      "id": "next.js13-test",
+      "title": "Next.js13のappディレクトリについて",
+      "content": "appディレクトリはデフォルトでサーバサイドレンダリングを行います。",
+      "createdAt": "2023-10-03T16:11:49.856Z"
+    }
+  ]
+}
